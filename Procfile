@@ -1,1 +1,1 @@
-web: ./target/debug/testing-stuff
+web: ROCKET_PORT=$PORT ./target/debug/testing-stuff
