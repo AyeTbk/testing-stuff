@@ -8,6 +8,6 @@ deploy:
   provider: heroku
   api_key:
     secure: l5zuZOA2E+s0q0EEyEQ+OLOQrTQ/sHsZk00LP01kzYgDbWx+xs1v2hRGfjZqFSZ3uuOxGDU3BPiy2zO5V3cWcNShv3blyEh+R3zlpVQjwdYW6x4V6wkBV1nVCjZmT/omxGE0wv3BXcnlYeYOYBC32GxYkUpnu3MBAerYRAkzeYO6CNHhREfUEyyC+AlHsvDTQIPMr9E8Y+prf7aBIb0ePiKMOzFY/dIBM68EdsJkDVr93eP+QvryMI8dmnvpCFr2NOqX+15EkOg1t+a/n/4mAkRYTftnJHFs+EEzJZh2Cc6HUyvZ82yUGi7erraaaEMdbQ+UWn/WfpHYsyC94yQ0/FJSbiq6elEQ6Ufu1z9SnOyz62PQZjqcefxe6rpKSWEiZvKiCpNXTSfGMziMUcyW69T8tmvGRyFPhV83qUHYGMnhNH7A11TfwOpKhU1udVOdHr/bO3HQA0X87Jt7yc87RDHz6GDC6szv+0kFR1ywAmnWfF1DSdbBUw0u9X5GfrL1QPenNwxSgZBRsNaJ2xw6UMl9scYIzustg3T0vEFzSXjNdpCVQK7Of3vOMCMULgyYdrzv3jF34Bct4TPUItnSaTeTWJ6liH/iRgB3oV3UqfMF1sH7UxzQDVbMMy76V3/T4Y6Z213lSFntHvy9QrstVs2QV2a+e1BUBfh6hpvB0vU=
-  app: testing-stuff
+  app: testing-stuffe
   on:
     repo: AyeTbk/testing-stuff
