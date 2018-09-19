@@ -3,6 +3,8 @@
 
 extern crate rocket;
 
+I BREAK BUILD
+
 #[get("/")]
 fn index() -> String {
     "this is index".to_owned()
